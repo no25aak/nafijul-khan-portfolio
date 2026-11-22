@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Profile illustration placeholder</title>
+  <desc id="desc">A simple illustrated portrait on a deep blue background</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#13213b"/><stop offset="1" stop-color="#254b58"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4ed6bd"/><stop offset="1" stop-color="#259a91"/></linearGradient>
+  </defs>
+  <rect width="600" height="700" rx="34" fill="url(#bg)"/>
+  <circle cx="494" cy="116" r="82" fill="#d6fb75" opacity=".9"/>
+  <circle cx="110" cy="565" r="128" fill="#56d6bf" opacity=".13"/>
+  <path d="M117 700c18-142 84-218 183-218s165 76 183 218" fill="url(#shirt)"/>
+  <path d="M221 455v53c0 51 35 91 79 91s79-40 79-91v-53" fill="#ae7355"/>
+  <ellipse cx="300" cy="314" rx="135" ry="164" fill="#c88b69"/>
+  <path d="M166 312c-8-144 54-228 153-228 105 0 157 76 137 226-17-27-31-60-38-98-43 42-131 67-246 65l-6 35z" fill="#172136"/>
+  <path d="M217 308c18-13 39-13 57 0M326 308c18-13 39-13 57 0" fill="none" stroke="#342b2b" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="247" cy="337" rx="8" ry="11" fill="#182237"/><ellipse cx="353" cy="337" rx="8" ry="11" fill="#182237"/>
+  <path d="M268 401c20 18 46 18 66 0" fill="none" stroke="#7f413c" stroke-width="8" stroke-linecap="round"/>
+  <text x="48" y="647" fill="#f3f5ef" font-family="Arial, sans-serif" font-size="21" letter-spacing="3">PROFILE IMAGE PLACEHOLDER</text>
+</svg>

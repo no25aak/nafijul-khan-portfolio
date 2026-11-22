@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 620" role="img" aria-labelledby="title desc">
+  <title id="title">Connected systems illustration</title>
+  <desc id="desc">A computer terminal connected to network nodes with a magnifying glass</desc>
+  <defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#192944"/><stop offset="1" stop-color="#173e49"/></linearGradient></defs>
+  <rect width="780" height="620" rx="28" fill="url(#panel)"/>
+  <circle cx="651" cy="123" r="84" fill="#d6fb75" opacity=".1"/><circle cx="95" cy="526" r="104" fill="#56d6bf" opacity=".12"/>
+  <path d="M172 167h330v226H172z" fill="#0d1829" stroke="#4ed6bd" stroke-width="3"/>
+  <path d="M215 214h115M215 252h190M215 290h147M215 328h207" stroke="#6f8c9b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M338 393v42m-62 0h124" stroke="#4ed6bd" stroke-width="7" stroke-linecap="round"/>
+  <path d="M501 279h91l42-49m-42 49 42 49m-136-49h-56" fill="none" stroke="#d6fb75" stroke-width="4" stroke-dasharray="8 11"/>
+  <circle cx="646" cy="230" r="22" fill="#d6fb75"/><circle cx="646" cy="328" r="22" fill="#56d6bf"/><circle cx="435" cy="279" r="17" fill="#56d6bf"/>
+  <circle cx="591" cy="456" r="71" fill="none" stroke="#f3f5ef" stroke-width="13"/><path d="m643 510 52 52" stroke="#f3f5ef" stroke-width="17" stroke-linecap="round"/>
+  <circle cx="591" cy="456" r="40" fill="#d6fb75" opacity=".22"/>
+  <text x="61" y="87" fill="#d6fb75" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">SYSTEMS · SIGNALS · SECURITY</text>
+</svg>
